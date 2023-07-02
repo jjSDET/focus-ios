@@ -1,648 +1,648 @@
 /* Button on About screen */
-"About.learnMoreButton" = "Per sapene di più";
+"About.learnMoreButton" = "Máis información";
 
 /* Label on About screen */
-"About.missionLabel" = "%@ hè sviluppatu da Mozilla. A nostra missione hè d’incuragisce un Internet apertu è in bella saluta.";
+"About.missionLabel" = "%@ é producido por Mozilla. A nosa misión é fomentar unha Internet saudable e aberta.";
 
 /* Label on About screen */
-"About.privateBullet1" = "Fate ricerche è navigate in l’appiecazione";
+"About.privateBullet1" = "Buscar e navegar directamente na aplicación";
 
 /* Label on About screen */
-"About.privateBullet2" = "Bluccate i perseguitatori (o mudificate e preferenze per auturizalli)";
+"About.privateBullet2" = "Bloquear rastrexadores (ou actualizar a configuración para permitir rastrexadores)";
 
 /* Label on About screen */
-"About.privateBullet3" = "Squassate i canistrelli è ancu e cronolugie di navigazione è di ricerca";
+"About.privateBullet3" = "Borrar para eliminar as cookies, así como o historial de busca e navegación";
 
 /* Label on About screen */
-"About.privateBulletHeader" = "Impiegatelu cum’è un navigatore privatu :";
+"About.privateBulletHeader" = "Usar como navegador privado:";
 
 /* Label for row in About screen */
-"About.rowHelp" = "Aiutu";
+"About.rowHelp" = "Axuda";
 
 /* Link to Privacy Notice in the About screen */
-"About.rowPrivacy" = "Pulitica di cunfidenzialità";
+"About.rowPrivacy" = "Política de privacidade";
 
 /* Label for row in About screen */
-"About.rowRights" = "Diritti di l’utilizatore";
+"About.rowRights" = "Os seus dereitos";
 
 /* Label on About screen */
-"About.safariBullet1" = "Bluccate i perseguitatori per amendà a vita privata";
+"About.safariBullet1" = "Bloquear rastrexadores para mellorar a privacidade";
 
 /* Label on About screen */
-"About.safariBullet2" = "Bluccà e grafie web per reduce a dimensione di e pagine";
+"About.safariBullet2" = "Bloquea fontes web para reducir o tamaño da páxina";
 
 /* Label on About screen */
-"About.safariBulletHeader" = "Impiegatelu cum’è un’estensione Safari :";
+"About.safariBulletHeader" = "Usar como extensión de Safari:";
 
 /* %@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, takes the user to a page with information about the product. Also displayed as a header for the About page. */
-"About.title" = "Apprupositu di %@";
+"About.title" = "Sobre %@";
 
 /* Label on About screen */
-"About.topLabel" = "%@ vi aiuta à stà à e cumande.";
+"About.topLabel" = "%@ pono en control.";
 
 /* Title for action sheet item to open the current page in another application. Placeholder is the name of the application to open the current page. */
-"actionSheet.openIn" = "Apre in %@";
+"actionSheet.openIn" = "Abrir en %@";
 
 /* Button to dismiss the 'Add Pass Failed' alert. */
-"AddPass.Error.Dismiss" = "Vai";
+"AddPass.Error.Dismiss" = "Aceptar";
 
 /* Message of the 'Add Pass Failed' alert. */
-"AddPass.Error.Message" = "Un sbagliu hè accadutu durante l’aghjuntu di u bigliettu à Wallet. Pruvate torna un altra volta.";
+"AddPass.Error.Message" = "Produciuse un erro ao engadir o «pass» a Wallet. Tente de novo máis tarde.";
 
 /* Title of the 'Add Pass Failed' alert. */
-"AddPass.Error.Title" = "Fiascu di l’aghjuntu di u bigliettu";
+"AddPass.Error.Title" = "Produciuse un fallo ao engadir «pass»";
 
 /* %@ is app name. Prompt shown to ask the user to use Touch ID, Face ID, or passcode to continue browsing after returning to the app. */
-"Authentication.reason" = "Ci vole à autenticassi per rivene à %@";
+"Authentication.reason" = "Autenticar para volver a %@";
 
 /* Label for button to add a custom URL */
-"Autocomplete.addCustomUrl" = "Aghjunghje un indirizzu persunalizatu";
+"Autocomplete.addCustomUrl" = "Engadir URL personalizado";
 
 /* Label for error state when entering an invalid URL */
-"Autocomplete.addCustomUrlError" = "Ci vole à vérificà l’indirizzu scrittu.";
+"Autocomplete.addCustomUrlError" = "Revise o URL que escribiu.";
 
 /* A label displaying an example URL */
-"Autocomplete.addCustomUrlExample" = "Esempiu : esempiu.com";
+"Autocomplete.addCustomUrlExample" = "Exemplo: example.com";
 
 /* Label for the input to add a custom URL */
-"Autocomplete.addCustomUrlLabel" = "Indirizzu web à aghjunghje";
+"Autocomplete.addCustomUrlLabel" = "URL a engadir";
 
 /* Placeholder for the input field to add a custom URL */
-"Autocomplete.addCustomUrlPlaceholder" = "Incullà o scrive un indirizzu web";
+"Autocomplete.addCustomUrlPlaceholder" = "Pegar ou escribir URL";
 
 /* Label for button to add a custom URL with the + prefix */
-"Autocomplete.addCustomUrlWithPlus" = "+ Aghjunghje un indirizzu persunalizatu";
+"Autocomplete.addCustomUrlWithPlus" = "+ Engadir URL personalizado";
 
 /* Label for toast alerting a custom URL has been added */
-"Autocomplete.customUrlAdded" = "Novu indirizzu persunalizatu aghjuntu.";
+"Autocomplete.customUrlAdded" = "Engadiuse o URL personalizado.";
 
 /* Description for enabling or disabling the default list. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. */
-"Autocomplete.defaultDescriptoin" = "Attivà per chì %@ compii autumaticamente più di 450 indirizzi populari in a barra d’indirizzu.";
+"Autocomplete.defaultDescriptoin" = "Actíveo para que %@ complete automaticamente máis de 450 URL populares na barra de enderezos.";
 
 /* label describing URL Autocomplete as disabled */
-"Autocomplete.disabled" = "Disattivata";
+"Autocomplete.disabled" = "Desactivado";
 
 /* Label for toast alerting that the custom URL being added is a duplicate */
-"Autocomplete.duplicateUrl" = "L’indirizzu esiste dighjà";
+"Autocomplete.duplicateUrl" = "Xa existe o URL";
 
 /* Label for button to add a custom URL */
-"Autocomplete.emptyState" = "Nisunu indirizzu persunalizatu à affissà";
+"Autocomplete.emptyState" = "Non hai URL personalizados para mostrar";
 
 /* label describing URL Autocomplete as enabled */
-"Autocomplete.enabled" = "Attivata";
+"Autocomplete.enabled" = "Activado";
 
 /* Label for button taking you to your custom Autocomplete URL list */
-"Autocomplete.manageSites" = "Urganizà i siti";
+"Autocomplete.manageSites" = "Xestionar os sitios";
 
 /* Label for enabling or disabling autocomplete */
-"Autocomplete.mySites" = "I mo siti";
+"Autocomplete.mySites" = "Os meus sitios";
 
 /* Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. */
-"Autocomplete.mySitesDesc" = "Attivà per chì %@ compii autumaticamente i vostri indirizzi web favuriti.";
+"Autocomplete.mySitesDesc" = "Activar para que %@ complete automaticamente os seus URL favoritos.";
 
 /* Label for enabling or disabling top sites */
-"Autocomplete.topSites" = "Siti populari";
+"Autocomplete.topSites" = "Sitios favoritos";
 
 /* Title for the action button shown on the Splash Screen which gives the user the ability to log in with biometrics. */
-"BiometricAuthentication.UnlockButton.Title" = "Sbluccà";
+"BiometricAuthentication.UnlockButton.Title" = "Desbloquear";
 
 /* Create a new session after failing a biometric check */
-"BiometricPrompt.newSession" = "Nova sessione";
+"BiometricPrompt.newSession" = "Nova sesión";
 
 /* Accessibility label for the back button */
-"Browser.backLabel" = "Ritornu";
+"Browser.backLabel" = "Atrás";
 
 /* Toast displayed after a URL has been copied to the clipboard */
-"browser.copyAddressToast" = "Indirizzu cupiatu in u preme’papei";
+"browser.copyAddressToast" = "Copiouse o URL ao portapapeis";
 
 /* Copy URL button in URL long press menu */
-"Browser.copyMenuLabel" = "Cupià";
+"Browser.copyMenuLabel" = "Copiar";
 
 /* Accessibility label for the forward button */
-"Browser.forwardLabel" = "Pagina seguente";
+"Browser.forwardLabel" = "Adiante";
 
 /* Accessibility label for the reload button */
-"Browser.reloadLabel" = "Ricaricà";
+"Browser.reloadLabel" = "Recargar";
 
 /* Accessibility label for the settings button */
-"Browser.settingsLabel" = "Preferenze";
+"Browser.settingsLabel" = "Configuración";
 
 /* Accessibility label for the stop button */
-"Browser.stopLabel" = "Piantà";
+"Browser.stopLabel" = "Deter";
 
 /* Label to display in the Discoverability overlay for keyboard shortcuts */
-"browserShortcutDescription.selectLocationBar" = "Selezziunà a barra d’indirizzu";
+"browserShortcutDescription.selectLocationBar" = "Seleccionar a barra de localización";
 
 /* Label on button to complete edits */
-"Done" = "Fattu";
+"Done" = "Feito";
 
 /* Label on button to allow edits */
-"Edit" = "Mudificà";
+"Edit" = "Editar";
 
 /* Button label to reload the error page */
-"Error.tryAgainButton" = "Pruvà torna";
+"Error.tryAgainButton" = "Tentar de novo";
 
 /* Button label used for cancelling to open another app from Focus */
-"ExternalAppLink.cancelTitle" = "Abbandunà";
+"ExternalAppLink.cancelTitle" = "Cancelar";
 
 /* Dialog title used for opening an external app from Focus. The placeholder string is the app name of either Focus or Klar. */
-"ExternalAppLink.messageTitle" = "%@ vole apre un’altra appiecazione";
+"ExternalAppLink.messageTitle" = "%@ quere abrir outra aplicación";
 
 /* Button label for opening another app from Focus */
-"ExternalAppLink.openTitle" = "Apre";
+"ExternalAppLink.openTitle" = "Abrir";
 
 /* Dialog title used for opening an external app from Focus. First placeholder string is the app name of either Focus or Klar and the second placeholder string specifies the app it wants to open. */
-"externalAppLinkWithAppName.messageTitle" = "%1$@ vole apre %2$@";
+"externalAppLinkWithAppName.messageTitle" = "%1$@ quere abrir %2$@";
 
 /* Button label in external link dialog to cancel the dialog. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
-"ExternalLink.cancelButton" = "Abbandunà";
+"ExternalLink.cancelButton" = "Cancelar";
 
 /* Button label in mailto: dialog to send an email. Test page: https://people-mozilla.org/~bnicholson/test/schemes.html */
-"ExternalLink.emailButton" = "Mandà un eMail";
+"ExternalLink.emailButton" = "Correo electrónico";
 
 /* Accessibility label for done button in Find in Page Toolbar. */
-"FindInPage.Done" = "Ricerca compia in a pagina";
+"FindInPage.Done" = "Finalizada a busca na páxina";
 
 /* Accessibility label for next result button in Find in Page Toolbar. */
-"FindInPage.NextResult" = "Circà a prossima occurrenza in a pagina";
+"FindInPage.NextResult" = "Buscar o seguinte na páxina";
 
 /* Accessibility label for previous result button in Find in Page Toolbar. */
-"FindInPage.PreviousResult" = "Circà a precedente occurrenza in a pagina";
+"FindInPage.PreviousResult" = "Buscar o anterior na páxina";
 
 /* Label on button to dismiss first run UI */
-"FirstRun.lastSlide.buttonLabel" = "Iè, aghju capitu !";
+"FirstRun.lastSlide.buttonLabel" = "Entendido!";
 
 /* Message label on the first run screen */
-"FirstRun.messageLabelTagline" = "Navigate cum’è s’è nisunu vi fighjava.";
+"FirstRun.messageLabelTagline" = "Navegue sen sentirse observado.";
 
 /* Button label used to close a menu that displays as a popup. */
-"Menu.Close" = "Chjode";
+"Menu.Close" = "Pechar";
 
 /* Text for a label that indicates the title of button from onboarding screen version 2. */
-"NewOnboarding.Button.Title.V2" = "Principià";
+"NewOnboarding.Button.Title.V2" = "Comezar";
 
 /* Text for a label that indicates the subtitle for the onboarding screen version 2. */
-"NewOnboarding.Subtitle.V2" = "Rapidu. Pruvatu. Senza distrazzione.";
+"NewOnboarding.Subtitle.V2" = "Rápido. Privado. Sen distraccións.";
 
 /* Text for a label that indicates the title of button from onboarding screen */
-"Onboarding.Button.Title" = "Principià a navigazione";
+"Onboarding.Button.Title" = "Iniciar a navegación";
 
 /* Text for a label that indicates the title of the bottom button from the default browser onboarding screen version 2. */
-"Onboarding.DefaultBrowser.BottomButtonTitle.V2" = "Ignurà";
+"Onboarding.DefaultBrowser.BottomButtonTitle.V2" = "Saltar";
 
 /* Text for a label that indicates the first subtitle for the default browser onboarding screen version 2. */
-"Onboarding.DefaultBrowser.FirstSubtitle.V2" = "Per più di cunfidenzialità, squassemu a vostra cronolugia quandu si chjode l’appiecazione.";
+"Onboarding.DefaultBrowser.FirstSubtitle.V2" = "Borramos o seu historial cando pecha a aplicación para obter máis privacidade.";
 
 /* Text for a label that indicates the second subtitle for the default browser onboarding screen version 2. %@ is the name of the app (Focus/Klar) */
-"Onboarding.DefaultBrowser.SecondSubtitle.V2" = "Fate di %@ u vostru navigatore predefinitu per prutege i vostri dati à l’apertura d’ogni liame.";
+"Onboarding.DefaultBrowser.SecondSubtitle.V2" = "Establece %@ como predeterminado para protexer os seus datos con cada ligazón que abra.";
 
 /* Text for a label that indicates the title for the default browser onboarding screen version 2. %@ is the name of the app (Focus/Klar) */
-"Onboarding.DefaultBrowser.Title.V2" = "%@ ùn hè micca cum’è l’altri navigatori";
+"Onboarding.DefaultBrowser.Title.V2" = "%@ non é como outros navegadores";
 
 /* Text for a label that indicates the title of the top button from the default browser onboarding screen version 2. */
-"Onboarding.DefaultBrowser.TopButtonTitle.V2" = "Sceglie cum’è navigatore predefinitu";
+"Onboarding.DefaultBrowser.TopButtonTitle.V2" = "Estabelecer como navegador predeterminado";
 
 /* Text for a label that indicates the description of history section from onboarding screen. */
-"Onboarding.History.Description" = "D’un cliccu simplice, squassate a vostra cronolugia di navigazione, e vostre parolle d’intesa, i vostri canistrelli, è impedite e publicità indesiderevule di seguitavvi.";
+"Onboarding.History.Description" = "Borre o seu historial de navegación, contrasinais, cookies e evite que os anuncios non desexados o sigan cun só clic!";
 
 /* Text for a label that indicates the title of history section from onboarding screen. */
-"Onboarding.History.Title" = "A vostra cronolugia ùn vi seguita micca";
+"Onboarding.History.Title" = "A súa historia non o segue";
 
 /* Text for a label that indicates the description of incognito section from onboarding screen. Placeholder can be (Focus or Klar). */
-"Onboarding.Incognito.Description" = "%@ hè un navigatore dedicatu à a cunfidenzialità cù una prutezzione contr’à u spiunagiu è u blucchime di cuntenutu.";
+"Onboarding.Incognito.Description" = "%@ é un navegador adicado á privacidade con protección de seguimento e bloqueo de contido.";
 
 /* Text for a label that indicates the title of incognito section from onboarding screen. */
-"Onboarding.Incognito.Title" = "Più chè solu incognitu";
+"Onboarding.Incognito.Title" = "Máis que de incógnito";
 
 /* Text for a label that indicates the description of protection section from onboarding screen. */
-"Onboarding.Protection.Description" = "Cunfigureghja e preferenze per sceglie s’è vò scumpartite assai o pocu.";
+"Onboarding.Protection.Description" = "Configure os axustes para poder decidir canto comparte.";
 
 /* Text for a label that indicates the title of protection section from onboarding screen. */
-"Onboarding.Protection.Title" = "Prutezzione discreziunale";
+"Onboarding.Protection.Title" = "Protección á súa propia discreción";
 
 /* Text for a label that indicates the subtitle for onboarding screen. */
-"Onboarding.Subtitle" = "Fate passà a vostra navigazione privata à u livellu superiore.";
+"Onboarding.Subtitle" = "Leve a súa navegación privada ao seguinte nivel.";
 
 /* Text for a label that indicates the title for onboarding screen. Placeholder can be (Focus or Klar). */
-"Onboarding.Title" = "Benvenuta in Firefox %@ !";
+"Onboarding.Title" = "Benvida ao Firefox %@!";
 
 /* Label for instructions to enable Safari, shown when enabling Safari Integration in Settings */
-"Safari.instructionsContentBlockers" = "Picchichjate nant’à Safari, eppò selezziunate « Blucchime di cuntenutu »";
+"Safari.instructionsContentBlockers" = "Toque Safari e seleccione Bloqueadores de contido";
 
 /* Label for instructions to enable Safari, shown when enabling Safari Integration in Settings */
-"Safari.instructionsEnable" = "Attivà %@";
+"Safari.instructionsEnable" = "Activar %@";
 
 /* Label for instructions to enable extensions in Safari, shown when enabling Safari Integration in Settings */
-"Safari.instructionsExtentions" = "Selezziunate Safari, eppò Estensioni";
+"Safari.instructionsExtentions" = "Seleccione Safari e, a continuación, seleccione Extensións";
 
 /* Error label when the blocker is not enabled, shown in the intro and main app when disabled */
-"Safari.instructionsNotEnabled" = "%@ ùn hè micca attivatu.";
+"Safari.instructionsNotEnabled" = "%@ non está activado.";
 
 /* Label for instructions to enable Safari, shown when enabling Safari Integration in Settings */
-"Safari.instructionsOpen" = "Aprite e preferenze";
+"Safari.instructionsOpen" = "Abrir a aplicación de configuración";
 
 /* Label for instructions to enable extensions in Safari, shown when enabling Safari Integration in Settings */
-"Safari.openInstruction" = "Aprite e preferenze di l’apparechju";
+"Safari.openInstruction" = "Abrir a configuración do dispositivo";
 
 /* Save button label */
-"Save" = "Arregistrà";
+"Save" = "Gardar";
 
 /* Label for error state when entering an invalid search engine URL. %s is a search term in a URL. */
-"SearchEngine.addEngineError" = "Ùn hà micca funziunatu. Pruvate di rimpiazzà u termine di a ricerca da què : %s.";
+"SearchEngine.addEngineError" = "Iso non funcionou. Probe a substituír o termo de busca por este: %s.";
 
 /* Label for disable option on search suggestions prompt */
-"SearchSuggestions.promptDisable" = "Nò";
+"SearchSuggestions.promptDisable" = "Non";
 
 /* Label for enable option on search suggestions prompt */
-"SearchSuggestions.promptEnable" = "Sì";
+"SearchSuggestions.promptEnable" = "Si";
 
 /* %@ is the name of the app (Focus / Klar). Label for search suggestions prompt message */
-"SearchSuggestions.promptMessage" = "Per ottene sugestioni di ricerca, %@ hà bisognu di mandà à u mutore di ricerca ciò chì vo stampittate in a barra d’indirizzu.";
+"SearchSuggestions.promptMessage" = "Para obter suxestións, %@ debe enviar o que escribe na barra de enderezos ao buscador.";
 
 /* Title for search suggestions prompt */
-"SearchSuggestions.promptTitle" = "Affissà e sugestioni di ricerca ?";
+"SearchSuggestions.promptTitle" = "Amosar suxestións de busca?";
 
 /* Title for the URL Autocomplete row */
-"Settings.autocompleteSection" = "Scrittura mezu-autumatica di l’indirizzi";
+"Settings.autocompleteSection" = "Completado automático do URL";
 
 /* Alert message shown when toggling the Content blocker */
-"Settings.blockOtherMessage" = "Bluccà l’altri perseguitatori di cuntenutu pò impedisce certe video è pagine web d’affissassi currettamente.";
+"Settings.blockOtherMessage" = "O bloqueo doutros rastrexadores de contido pode romper algúns vídeos e páxinas web.";
 
 /* Button label for declining Content blocker alert */
-"Settings.blockOtherNo2" = "Abbandunà";
+"Settings.blockOtherNo2" = "Cancelar";
 
 /* Button label for accepting Content blocker alert */
-"Settings.blockOtherYes2" = "Bluccà i perseguitatori di cuntenutu";
+"Settings.blockOtherYes2" = "Bloquear rastrexadores de contido";
 
 /* Dark theme option in settings menu */
-"Settings.darkTheme" = "Scuru";
+"Settings.darkTheme" = "Escuro";
 
 /* Description associated to the Search Suggestions toggle on main screen. %@ is the app name (Focus/Klar) */
-"Settings.detailTextSearchSuggestion" = "%@ manderà à u vostru mutore di ricerca ciò chì vo stampittate in a barra d’indirizzu.";
+"Settings.detailTextSearchSuggestion" = "%@ enviará o que escriba na barra de enderezos ao seu buscador.";
 
 /* Description associated to the Send Usage Data toggle on main screen. %@ is the app name (Focus/Klar) */
-"Settings.detailTextSendUsageData" = "Mozilla face casu di cullettà solu i dati chì sò ghjuvevule per rigalà è amendà %@ per tutti.";
+"Settings.detailTextSendUsageData" = "Mozilla esforzase por recoller só os datos necesarios para fornecer e mellorar %@ para todos.";
 
 /* Description associated to the Studies toggle on the settings screen. %@ is the app name (Focus/Klar) */
-"Settings.detailTextStudies" = "%@ pò installà è lancià studii di quandu in quandu.";
+"Settings.detailTextStudies" = "%@ pode instalar e executar estudos de cando en vez.";
 
 /* Title for section in settings menu */
-"Settings.general" = "Generale";
+"Settings.general" = "Xeral";
 
 /* Subtitle for Send Anonymous Usage Data toggle on main screen */
-"Settings.learnMore" = "Sapene di più.";
+"Settings.learnMore" = "Máis información.";
 
 /* Lincese option in settings menu. Tapping the cell will take the user to a list of licences for the 3rd parties used in the app. */
-"Settings.licenses" = "Licenze";
+"Settings.licenses" = "Licenzas";
 
 /* Light theme option in settings menu */
-"Settings.lightTheme" = "Chjaru";
+"Settings.lightTheme" = "Claro";
 
 /* %@ is the name of the app (Focus / Klar). Title displayed in the settings screen that, when tapped, allows the user to leave a review for the app on the app store. */
-"Settings.rate" = "Valutà %@";
+"Settings.rate" = "Valorar %@";
 
 /* Label for Safari integration section */
-"Settings.safariTitle" = "INTEGRAZIONE SAFARI";
+"Settings.safariTitle" = "INTEGRACIÓN CON SAFARI";
 
 /* Title for settings screen */
-"Settings.screenTitle" = "Preferenze";
+"Settings.screenTitle" = "Configuración";
 
 /* Text for button to add another search engine in settings */
-"Settings.Search.AddSearchEngineButton" = "Aghjunghje un altru mutore di ricerca";
+"Settings.Search.AddSearchEngineButton" = "Engadir outro buscador";
 
 /* Title on add search engine settings screen */
-"Settings.Search.AddSearchEngineTitle" = "Aghjunghje un mutore di ricerca";
+"Settings.Search.AddSearchEngineTitle" = "Engadir buscador";
 
 /* Header for rows of installed search engines */
-"Settings.Search.InstalledSearchEngines" = "MUTORI DI RICERCA INSTALLATI";
+"Settings.Search.InstalledSearchEngines" = "MOTORES DE BUSCA INSTALADOS";
 
 /* Label for input field for the name of the search engine to be added */
-"Settings.Search.NameToDisplay" = "Nome à affissà";
+"Settings.Search.NameToDisplay" = "Nome para amosar";
 
 /* Toast displayed after adding a search engine */
-"Settings.Search.NewSearchEngineAdded" = "Novu mutore di ricerca aghjuntu.";
+"Settings.Search.NewSearchEngineAdded" = "Novo buscador engadido.";
 
 /* Label for button to bring deleted default engines back */
-"Settings.Search.RestoreEngine" = "Risturà i mutori di ricerca predefiniti";
+"Settings.Search.RestoreEngine" = "Restaurar os buscadores predeterminados";
 
 /* Placeholder text for input of new search engine name */
-"Settings.Search.SearchEngineName" = "Nome di u mutore di ricerca";
+"Settings.Search.SearchEngineName" = "Nome do buscador";
 
 /* Label for input of search engine template */
-"Settings.Search.SearchTemplate" = "Catena di ricerca à impiegà";
+"Settings.Search.SearchTemplate" = "Cadea de busca que se usará";
 
 /* Text displayed as an example of the template to add a search engine. */
-"settings.Search.SearchTemplateExample" = "Esempiu : esempiudimutorediricerca.com/search/?q=%s";
+"settings.Search.SearchTemplateExample" = "Exemplo: searchengine.example.com/search/?q=%s";
 
 /* Placeholder text for input of new search engine template */
-"Settings.Search.SearchTemplatePlaceholder" = "Incullate o stampittate una catena di ricerca. S’ellu hè bisognu, rimpiazzate u termine di ricerca da : %s.";
+"Settings.Search.SearchTemplatePlaceholder" = "Pegue ou introduza a cadea de busca. Se é necesario, substitúa o termo de busca con: %s.";
 
 /* Label for the search engine in the search screen */
-"Settings.searchLabel" = "Mutore di ricerca";
+"Settings.searchLabel" = "Buscador";
 
 /* Label for the Search Suggestions toggle row */
-"Settings.searchSuggestions" = "Ottene sugestioni di ricerca";
+"Settings.searchSuggestions" = "Obter suxestións de busca";
 
 /* Title for the search selection screen */
-"Settings.searchTitle2" = "RICERCA";
+"Settings.searchTitle2" = "BUSCAR";
 
 /* Section label for Mozilla toggles */
 "Settings.sectionMozilla" = "MOZILLA";
 
 /* Section label for privacy toggles */
-"Settings.sectionPrivacy" = "CUNFIDENZIALITÀ";
+"Settings.sectionPrivacy" = "PRIVACIDADE";
 
 /* Label title for set as default browser row */
-"Settings.setAsDefaultBrowser" = "Definisce cum’è navigatore predefinitu";
+"Settings.setAsDefaultBrowser" = "Estabelecer como navegador predeterminado";
 
 /* %@ is the name of the app. Description for set as default browser option */
-"Settings.setAsDefaultBrowserDescription" = "Definisce chì i liami di i siti web, i currieri elettronichi è i messaghji s’aprinu autumaticamente in %@.";
+"Settings.setAsDefaultBrowserDescription" = "Estabelecer ligazóns de sitios web, enderezos de correo electrónico e mensaxes para que se abran automaticamente no %@.";
 
 /* System value for theme section in settings menu */
-"Settings.systemTheme" = "Tema di u sistema";
+"Settings.systemTheme" = "Tema do sistema";
 
 /* Theme section in settings menu */
 "Settings.theme" = "Tema";
 
 /* Header for manual theme section in settings menu */
-"Settings.themePicker" = "Selettore di tema";
+"Settings.themePicker" = "Selector de tema";
 
 /* Label for the checkbox to toggle Advertising trackers */
-"Settings.toggleBlockAds2" = "Publicità";
+"Settings.toggleBlockAds2" = "Publicidade";
 
 /* Label for the checkbox to toggle Analytics trackers */
-"Settings.toggleBlockAnalytics2" = "Statistica";
+"Settings.toggleBlockAnalytics2" = "Analítica";
 
 /* Label for toggle on main screen */
-"Settings.toggleBlockFonts" = "Bluccà e grafie web";
+"Settings.toggleBlockFonts" = "Bloquear tipos de letra web";
 
 /* Label for the checkbox to toggle Other trackers */
-"Settings.toggleBlockOther2" = "Cuntenutu";
+"Settings.toggleBlockOther2" = "Contido";
 
 /* Label for the checkbox to toggle Social trackers */
-"Settings.toggleBlockSocial2" = "Suciale";
+"Settings.toggleBlockSocial2" = "Social";
 
 /* Label for toggle on settings screen */
-"Settings.toggleFaceID" = "Impiegà Face ID per spalancà l’appiecazione";
+"Settings.toggleFaceID" = "Use Face ID para desbloquear a aplicación";
 
 /* %@ is the name of the app (Focus / Klar). Description for 'Enable Face ID' displayed under its respective toggle in the settings menu. */
-"Settings.toggleFaceIDDescription" = "Face ID pò spalancà %@ s’è un indirizzu web hè dighjà apertu in l’appiecazione";
+"Settings.toggleFaceIDDescription" = "Face ID pode desbloquear %@ se xa hai un URL aberto na aplicación";
 
 /* Show home screen tips toggle label on settings screen */
-"Settings.toggleHomeScreenTips" = "Affissà minichichje nant’à u screnu d’accolta";
+"Settings.toggleHomeScreenTips" = "Amosar consellos na páxina inicial";
 
 /* Safari toggle label on settings screen */
 "Settings.toggleSafari" = "Safari";
 
 /* Label for Send Usage Data toggle on main screen */
-"Settings.toggleSendUsageData" = "Mandà i dati d’adopru";
+"Settings.toggleSendUsageData" = "Enviar datos de uso";
 
 /* Label for Studies toggle on the settings screen */
-"Settings.toggleStudies" = "Studii";
+"Settings.toggleStudies" = "Estudos";
 
 /* Label for toggle on settings screen */
-"Settings.toggleTouchID" = "Impiegà Touch ID per spalancà l’appiecazione";
+"Settings.toggleTouchID" = "Usar Touch ID para desbloquear a aplicación";
 
 /* %@ is the name of the app (Focus / Klar). Description for 'Enable Touch ID' displayed under its respective toggle in the settings menu. */
-"Settings.toggleTouchIDDescription" = "Touch ID pò spalancà %@ s’è un indirizzu web hè dighjà apertu in l’appiecazione";
+"Settings.toggleTouchIDDescription" = "Touch ID pode desbloquear %@ se xa hai un URL aberto na aplicación";
 
 /* Status off for tracking protection in settings screen */
-"Settings.trackingProtectionOff" = "Disattivata";
+"Settings.trackingProtectionOff" = "Desactivado";
 
 /* Status on for tracking protection in settings screen */
-"Settings.trackingProtectionOn" = "Attivata";
+"Settings.trackingProtectionOn" = "Activado";
 
 /* Value for theme toggle in settings menu */
-"Settings.useSystemTheme" = "Impiegà u modu chjaru o scuru di u sistema";
+"Settings.useSystemTheme" = "Usar o modo claro ou escuro do sistema";
 
 /* Title for settings section to enable different Siri Shortcuts. */
-"Settinsg.siriShortcutsTitle" = "ACCURTATOGHJI SIRI";
+"Settinsg.siriShortcutsTitle" = "ATALLOS DE SIRI";
 
 /* Text for a share button */
-"share" = "Sparte";
+"share" = "Compartir";
 
 /* Text for the share menu option when a user wants to add the site to Shortcuts */
-"ShareMenu.AddToShortcuts" = "Aghjunghje à l’accurtatoghji";
+"ShareMenu.AddToShortcuts" = "Engadir aos atallos";
 
 /* Toast displayed to the user after adding the item to the Shortcuts. */
-"ShareMenu.AddToShortcuts.Confirm" = "Aghjuntu à l’accurtatoghji";
+"ShareMenu.AddToShortcuts.Confirm" = "Engadido aos atallos";
 
 /* Text for the share menu when a user wants to copy a URL. */
-"shareMenu.copyAddress" = "Cupià l’indirizzu";
+"shareMenu.copyAddress" = "Copiar enderezo";
 
 /* Text for the share menu option when a user wants to open the find in page menu */
-"ShareMenu.FindInPage" = "Circà in a pagina";
+"ShareMenu.FindInPage" = "Atopar na páxina";
 
 /* Text for the share menu option when a user wants to remove the site from Shortcuts */
-"ShareMenu.RemoveFromShortcuts" = "Caccià da l’accurtatoghji";
+"ShareMenu.RemoveFromShortcuts" = "Retirar dos atallos";
 
 /* Toast displayed to the user after removing the item from the Shortcuts. */
-"ShareMenu.RemoveShortcut.Confirm" = "Accurtatoghju cacciatu";
+"ShareMenu.RemoveShortcut.Confirm" = "Atallo retirado";
 
 /* Text for the share menu option when a user wants to reload the site as a desktop */
-"ShareMenu.RequestDesktop" = "Fighjà a versione urdinatore";
+"ShareMenu.RequestDesktop" = "Solicitar sitio de escritorio";
 
 /* Text for the share menu option when a user wants to reload the site as a mobile device */
-"ShareMenu.RequestMobile" = "Fighjà a versione mobile";
+"ShareMenu.RequestMobile" = "Solicitar versión móbil";
 
 /* Text for the share menu option when a user wants to open the current website in the Chrome app. */
-"ShareMenu.ShareOpenChrome" = "Apre in Chrome";
+"ShareMenu.ShareOpenChrome" = "Abrir en Chrome";
 
 /* Text for the share menu option when a user wants to open the current website in the default browser. */
-"ShareMenu.ShareOpenDefaultBrowser" = "Apre in u navigatore predefinitu";
+"ShareMenu.ShareOpenDefaultBrowser" = "Abrir no navegador predeterminado";
 
 /* Text for the share menu option when a user wants to open the current website in the Firefox app. */
-"ShareMenu.ShareOpenFirefox" = "Apre in Firefox";
+"ShareMenu.ShareOpenFirefox" = "Abrir no Firefox";
 
 /* Text for the share menu option when a user wants to open the current website inside the app. */
-"ShareMenu.ShareOpenLink" = "Apre u liame";
+"ShareMenu.ShareOpenLink" = "Abrir a ligazón";
 
 /* Text for the share menu option when a user wants to share the current website they are on through another app. */
-"ShareMenu.SharePage" = "Sparte a pagina cù…";
+"ShareMenu.SharePage" = "Compartir a páxina con…";
 
 /* Text for the long press on a shortcut option in context menu. */
-"ShortcutView.RemoveFromShortcuts" = "Caccià da l’accurtatoghji";
+"ShortcutView.RemoveFromShortcuts" = "Retirar dos atallos";
 
 /* Text for the long press on a shortcut rename option in context menu. */
-"ShortcutView.Rename" = "Rinuminà l’accurtatoghju";
+"ShortcutView.Rename" = "Cambiar o nome do atallo";
 
 /* Text for the placeholder textfield on rename shortcut alert. */
-"ShortcutView.RenameShortcutAlertPlaceholder" = "Nome di l’accurtatoghju";
+"ShortcutView.RenameShortcutAlertPlaceholder" = "Nome do atallo";
 
 /* Text for the rename shortcut alert primary action. */
-"ShortcutView.RenameShortcutAlertPrimaryAction" = "Arregistrà";
+"ShortcutView.RenameShortcutAlertPrimaryAction" = "Gardar";
 
 /* Text for the rename shortcut alert secondary action. */
-"ShortcutView.RenameShortcutAlertSecondaryAction" = "Abbandunà";
+"ShortcutView.RenameShortcutAlertSecondaryAction" = "Cancelar";
 
 /* This is the button text that is displayed in the Show Me How Onboarding Screen */
-"ShowMeHowOnboarding.ButtonText.V2" = "Compiu";
+"ShowMeHowOnboarding.ButtonText.V2" = "Feito";
 
 /* This is the subtitle text for step one that is displayed in the Show Me How Onboarding Screen */
-"ShowMeHowOnboarding.SubtitleStepOne.V2" = "Longa incalcata nant’à u screnu d’accolta fine à chì l’icone principianu à tremulà.";
+"ShowMeHowOnboarding.SubtitleStepOne.V2" = "Manter premida a pantalla de inicio ata que as iconas comecen a moverse.";
 
 /* This is the subtitle text for step three that is displayed in the Show Me How onboarding screen. %@ is the name of the app (Focus/Klar) */
-"ShowMeHowOnboarding.SubtitleStepThree.V2" = "Ricercate %@. Eppò sciglite un widget.";
+"ShowMeHowOnboarding.SubtitleStepThree.V2" = "Buscar %@. A continuación, escolla un widget.";
 
 /* This is the subtitle text for step two that is displayed in the Show Me How Onboarding Screen */
-"ShowMeHowOnboarding.SubtitleStepTwo.V2" = "Appughjate nant’à l’icona « + ».";
+"ShowMeHowOnboarding.SubtitleStepTwo.V2" = "Toque a icona máis.";
 
 /* This is the title text that is displayed in the Show Me How Onboarding Screen. %@ is the name of the app (Focus/Klar) */
-"ShowMeHowOnboarding.Title.V2" = "Aghjunghjite un widget per %@";
+"ShowMeHowOnboarding.Title.V2" = "Engadir un widget de %@";
 
 /* Button to add a favorite URL to Siri. */
-"Siri.add" = "Aghjunghje";
+"Siri.add" = "Engadir";
 
 /* Button to add a specified shortcut option to Siri. */
-"Siri.addTo" = "Aghjunghje à Siri";
+"Siri.addTo" = "Engadir a Siri";
 
 /* Label for button to edit the Siri phrase or delete the Siri functionality. */
-"Siri.editOpenUrl" = "Arregistrà torna o squassà l’accurtatoghju";
+"Siri.editOpenUrl" = "Volver a gravar ou eliminar o atallo";
 
 /* Title of option in settings to set up Siri to erase */
-"Siri.erase" = "Squassà";
+"Siri.erase" = "Borrar";
 
 /* Title of option in settings to set up Siri to erase and then open the app. */
-"Siri.eraseAndOpen" = "Squassà è apre";
+"Siri.eraseAndOpen" = "Borrar e abrir";
 
 /* Title for screen to add a favorite URL to Siri. */
-"Siri.favoriteUrl" = "Apre u situ favuritu";
+"Siri.favoriteUrl" = "Abre o sitio favorito";
 
 /* Title of option in settings to set up Siri to open a specified URL in Focus/Klar. */
-"Siri.openURL" = "Apre u situ favuritu";
+"Siri.openURL" = "Abre o sitio favorito";
 
 /* Label for input to set a favorite URL to be opened by Siri. */
-"Siri.urlToOpen" = "Indirizzu à apre";
+"Siri.urlToOpen" = "URL para abrir";
 
 /* Text for a label that indicates the title for biometric tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar). */
-"Tip.Biometric.Title" = "Ammarchjunà %@ quandu un situ hè apertu :";
+"Tip.Biometric.Title" = "Bloquear %@ cando un sitio está aberto:";
 
 /* Text for a label that indicates the description for biometric Face ID tip. */
-"Tip.BiometricFaceId.Description" = "Attivà Face ID";
+"Tip.BiometricFaceId.Description" = "Activar Face ID";
 
 /* Text for a label that indicates the description for biometric Touch ID tip. */
-"Tip.BiometricTouchId.Description" = "Attivà Touch ID";
+"Tip.BiometricTouchId.Description" = "Activar Touch ID";
 
 /* Text for a label that indicates the description for request desktop tip. */
-"Tip.RequestDesktop.Description" = "Azzioni di a pagina > Fighjà a versione urdinatore";
+"Tip.RequestDesktop.Description" = "Accións da páxina > Solicitar sitio de escritorio";
 
 /* Text for a label that indicates the title for request desktop tip. */
-"Tip.RequestDesktop.Title" = "Vulete fighjà a versione urdinatore cumpleta d’un situ ?";
+"Tip.RequestDesktop.Title" = "Quere ver a versión de escritorio completa dun sitio?";
 
 /* Text for a label that indicates the description for share trackers tip. The placeholder is the number of trackers blocked. Only shown when there are more than 10 trackers blocked. For locales where we would need plural support, please feel free to translate this string as `Trackers blocked so far: %@` instead. */
-"Tip.ShareTrackers.Description" = "%@ perseguitatori bluccati sin’avà";
+"Tip.ShareTrackers.Description" = "%@ rastrexadores bloqueados ata agora";
 
 /* Text for a label that indicates the title for share trackers tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar). */
-"Tip.ShareTrackers.Title" = "Navigate. %@ blucca.";
+"Tip.ShareTrackers.Title" = "Vostede navega. %@ bloquea.";
 
 /* Text for a label that indicates the description for shortcuts tip. The placeholder is replaced with the short product name (Focus or Klar). */
-"Tip.Shortcuts.Description" = "Selezziunate « Aghjunghje à l’accurtatoghji » da u listinu di %@";
+"Tip.Shortcuts.Description" = "Seleccione Engadir aos atallos no menú de %@";
 
 /* Text for a label that indicates the title for shortcuts tip. */
-"Tip.Shortcuts.Title" = "Create l’accurtatoghji per i siti chì vo visitate u più :";
+"Tip.Shortcuts.Title" = "Cree atallos aos sitios que máis visita:";
 
 /* Text for a label that indicates the description for siri erase tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut. */
-"Tip.SiriErase.Description" = "Aghjunghje un accurtatoghju Siri";
+"Tip.SiriErase.Description" = "Engadir atallo de Siri";
 
 /* Text for a label that indicates the title for siri erase tip. The placeholder is replaced with the long product name (Firefox Focus or Firefox Klar). */
-"Tip.SiriErase.Title" = "« Siri, squassa a mo sessione %@. »";
+"Tip.SiriErase.Title" = "“Siri, borra a miña sesión de %@.”";
 
 /* Text for a label that indicates the description for siri favorite tip. The shortcut in this context is the iOS Siri Shortcut, not a Focus website shortcut. */
-"Tip.SiriFavorite.Description" = "Aghjunghje un accurtatoghju Siri";
+"Tip.SiriFavorite.Description" = "Engadir atallo de Siri";
 
 /* Text for a label that indicates the title for siri favorite tip. */
-"Tip.SiriFavorite.Title" = "« Siri, apre u mo situ preferitu. »";
+"Tip.SiriFavorite.Title" = "“Siri, abre o meu sitio favorito.”";
 
 /* Text for a label that indicates the description for sites not working tip. */
-"Tip.SitesNotWorking.Description" = "Pruvate di disattivà a prutezzione contr’à u spiunagiu";
+"Tip.SitesNotWorking.Description" = "Probe a desactivar a Protección de seguimento";
 
 /* Text for a label that indicates the title for sites not working tip. */
-"Tip.SitesNotWorking.Title" = "Ci seria u cuntenutu chì manca o u situ si cumpurteria d’una manera strana ?";
+"Tip.SitesNotWorking.Title" = "Falta contido no sitio ou actúa de forma estraña?";
 
 /* Text shown on quick action widget inviting the user to browse in the app. %@ is the name of the app (Focus/Klar). */
-"TodayWidget.SearchInApp.Instruction" = "Circà in %@";
+"TodayWidget.SearchInApp.Instruction" = "Buscar en %@";
 
 /* This is the body text that is displayed for the Context Menu icon tooltip */
-"TooltipBodyText.ContextMenu" = "Andà à e preferenze per urganizà l’ozzioni specifiche di cunfidenzialità è di sicurità.";
+"TooltipBodyText.ContextMenu" = "Vaia á Configuración para xestionar opcións específicas de privacidade e seguridade.";
 
 /* This is the body text that is displayed for the Privacy tooltip */
-"TooltipBodyText.Privacy" = "Ste preferenze predefinite furniscenu una prutezzione forte. Ma hè faciule di mudificalle per suddisfà i vostri bisogni specifichi.";
+"TooltipBodyText.Privacy" = "Esta configuración predeterminada ofrece unha forte protección. Pero é doado axustar a configuración para satisfacer as súas necesidades específicas.";
 
 /* This is the body text that is displayed for the Search Bar tooltip */
-"TooltipBodyText.SearchBar" = "Principiate a vostra sessione di navigazione privata è noi bluccheremu l’elementi di spiunagiu è l’altre minacce durante a navigazione.";
+"TooltipBodyText.SearchBar" = "Comece a súa sesión de navegación privada e bloquearemos os rastrexadores e outras ameazas mentres navega.";
 
 /* This is the body text that is displayed for the Shield icon tooltip. Where placeholder can be (Focus or Klar). */
-"TooltipBodyText.ShieldIcon" = "%@ hà fermatu u spiunagiu da stu situ. Picchichjate u scudu per cunnosce ciò ch’avemu bluccatu.";
+"TooltipBodyText.ShieldIcon" = "%@ impediu que este sitio o espiara. Toque o escudo para obter información sobre o que bloqueamos.";
 
 /* This is the body text that is displayed for the Shield icon tooltip when we block trackers for the first time on a website */
-"TooltipBodyText.ShieldIconTrackerBlocked.V2" = "Missione compia ! Avemu fermatu u spiunagiu da stu situ. Picchichjate u scudu à ogni mumentu per vede ciò chì no blucchemu.";
+"TooltipBodyText.ShieldIconTrackerBlocked.V2" = "Excelente! Evitamos que este sito web o espiara. Toque o escudo para ver o que estamos a bloquear.";
 
 /* This is the body text that is displayed for the Trash icon tooltip */
-"TooltipBodyText.TrashIcon" = "Picchichjate a curbella à ogni mumenti per caccià tutta traccia di a vostra sessione currente.";
+"TooltipBodyText.TrashIcon" = "Toque a papeleira en calquera momento para eliminar todos os rastros da súa sesión actual.";
 
 /* This is the body text that is displayed for the Trash icon tooltip */
-"TooltipBodyText.TrashIcon.V2" = "Picchicciate quì per squassà tuttu - cronolugia, canistrelli, ecc. - è principiate à zeru in un’unghjetta nova.";
+"TooltipBodyText.TrashIcon.V2" = "Toque aquí para eliminalo todo — historial, cookies, todo — e comezar de novo nunha nova lapela.";
 
 /* This is the title text that is displayed for the Privacy tooltip */
-"TooltipTitleText.Privacy" = "Site prutetti !";
+"TooltipTitleText.Privacy" = "Está protexido!";
 
 /* Text for tracking protection screen showing the connection is not secure */
-"trackingProtection.connectionNotSecureLabel" = "A cunnessione ùn hè micca assicurata";
+"trackingProtection.connectionNotSecureLabel" = "A conexión non é segura";
 
 /* Text for tracking protection screen showing the connection is secure */
-"trackingProtection.connectionSecureLabel" = "A cunnessione hè assicurata";
+"trackingProtection.connectionSecureLabel" = "A conexión é segura";
 
 /* Title for the tracking settings page to change what trackers are blocked. */
-"trackingProtection.label" = "Prutezzione contr’à u spiunagiu";
+"trackingProtection.label" = "Protección contra o rastrexo";
 
 /* Text for the status off from Tracking Protection. */
-"trackingProtection.statusOff" = "E prutezzioni sò disattivate per sta sessione";
+"trackingProtection.statusOff" = "As proteccións están DESACTIVADAS para esta sesión";
 
 /* Text for the status on from Tracking Protection. */
-"trackingProtection.statusOn" = "E prutezzioni sò attivate per sta sessione";
+"trackingProtection.statusOn" = "As proteccións están ACTIVADAS para esta sesión";
 
 /* Text for the toggle that enables/disables tracking protection. */
-"trackingProtection.toggleLabel2" = "Prutezzione rinfurzata contr’à u spiunagiu";
+"trackingProtection.toggleLabel2" = "Protección mellorada contra o rastrexo";
 
 /* Text for tracking protection screen showing the number of trackers blocked since the app install. The placeholder is replaced with the install date of the application. */
-"trackingProtection.trackersBlockedLabel" = "Perseguitatori bluccati dapoi u %@";
+"trackingProtection.trackersBlockedLabel" = "Rastrexadores bloqueados desde %@";
 
 /* Text for the header of trackers section from Tracking Protection. */
-"trackingProtection.trackersHeader" = "Perseguitatori è scenarii à bluccà";
+"trackingProtection.trackersHeader" = "Rastrexadores e scripts para bloquear";
 
 /* Label displayed for button used as a shortcut to add a link to the list of URLs to autocomplete. */
-"URL.addToAutocompleteLabel" = "Aghjunghje u liame à a scrittura mezu-autumatica";
+"URL.addToAutocompleteLabel" = "Engadir a ligazón para completar automaticamente";
 
 /* Text for the URL context menu when a user long presses on the URL bar with clipboard contents. */
-"URL.contextMenu" = "Incullà è apre";
+"URL.contextMenu" = "Pegar e ir";
 
 /* Erase button in the URL bar */
-"URL.eraseButtonLabel" = "SQUASSÀ";
+"URL.eraseButtonLabel" = "BORRAR";
 
 /* Message shown after pressing the Erase button */
-"URL.eraseMessageLabel2" = "Cronolugia di navigazione squassata";
+"URL.eraseMessageLabel2" = "Borrouse o historial de navegación";
 
 /* Label displayed for find in page button when typing in the URL Bar. %@ is any text the user has typed into the URL bar that they want to find on the current page. */
-"URL.findOnPageLabel" = "Circà in a pagina : %@";
+"URL.findOnPageLabel" = "Atopar na páxina: %@";
 
 /* Text for a menu displayed from the bottom of the screen when a user long presses on the URL bar with clipboard contents. */
-"URL.paste" = "Incullà";
+"URL.paste" = "Pegar";
 
 /* Placeholder text shown in the URL bar before the user navigates to a page */
-"URL.placeholderText" = "Ricerca o indirizzu";
+"URL.placeholderText" = "Buscar ou escribir o enderezo";
 
 /* Label displayed for search button when typing in the URL bar */
-"URL.searchLabel" = "Circà %@";
+"URL.searchLabel" = "Buscar %@";
 
 /* Text for the URL bar showing the number of trackers blocked on a webpage. */
-"URL.trackersBlockedLabel" = "Perseguitatori bluccati";
+"URL.trackersBlockedLabel" = "Rastrexadores bloqueados";
 
 /* Title for the action button shown on card view that will take the user to a tutorial explaining the user how to add an widget */
-"WidgetOnboardingCard.ActionButton" = "Fatemi vede cumu fà";
+"WidgetOnboardingCard.ActionButton" = "Móstreme como";
 
 /* Subtitle shown on card view explaining the app has a widget option. %@ is the name of the app (Focus/Klar). */
-"WidgetOnboardingCard.Subtitle" = "Vi lasciemu à a vostra navigazione privata, ma principiate più prestu e prossime volte cù u widget %@ nant’à u vostru screnu d’accolta.";
+"WidgetOnboardingCard.Subtitle" = "Deixarémolo coa súa navegación privada, pero a próxima vez comezará máis rápido co widget %@ na súa pantalla de inicio.";
 
 /* Title shown on card view explaining the app has a widget option */
-"WidgetOnboardingCard.Title" = "Cronolugia di navigazione squassata ! 🎉";
+"WidgetOnboardingCard.Title" = "Borrouse o historial de navegación. 🎉";
 
